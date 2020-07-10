@@ -1,0 +1,47 @@
+.navbar img{
+    width:40px;
+}
+.navbar-brand{
+    margin-left: 250px;
+}
+.navbar-nav{
+    margin-right: 250px;
+}
+body{
+    position: relative;
+width: 1440px;
+height: 1220px;
+background: #F3F1FF;
+}
+.top-player img{
+    width: 56px;
+    height: 56px;
+}
+main{
+    width: 870px;
+}
+.top-player{
+    position: absolute;
+    background-color: #ffffff;
+width: 870px;
+height: 679px;
+left: 285px;
+top: 130px;
+margin-top: 36px;
+}
+hr.new1 {
+    position: absolute;
+    width: 807px;
+    height: 0px;
+    left: 315px;
+    top: 410px;
+    
+    border: 1px solid #D1D1D1;
+  }
+  .top-blog img{
+    position: absolute;
+    width: 177px;
+    height: 117px;
+    left: 315px;
+    top: 507px;
+  }
